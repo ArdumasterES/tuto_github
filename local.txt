@@ -1,2 +1,5 @@
 Primer archivo creado en local.
 Texto añadido en la rama principal.
+Texto combinado.
+Texto rama nueva.
+
